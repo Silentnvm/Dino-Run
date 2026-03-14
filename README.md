@@ -2,8 +2,6 @@
 
 A simple recreation of the classic Google Chrome Dino Run game, built with Python and Pygame.
 
-![Gameplay GIF](https://i.imgur.com/2Y0bE5g.gif)
-
 ## 🌟 About The Project
 
 This project is a fun, introductory game developed to practice basic game development concepts. The player controls a dinosaur that must avoid obstacles (cacti and pterodactyls) by jumping and ducking. The game's speed increases over time, making it progressively more challenging.
